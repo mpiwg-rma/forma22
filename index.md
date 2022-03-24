@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## FORMA'22: The First Workshop on the Future of MPI RMA
 
-You can use the [editor on GitHub](https://github.com/mpiwg-rma/forma22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MPI Remote Memory Access (RMA) has been part of the MPI standard since MPI 2.0, with significant extensions made in MPI 3.0. With hardware technologies and the application space constantly evolving, it is time to reflect on the current state of affairs and to gather input for future directions of the RMA interface.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of the FORMA'22 workshop is to bring together users and implementors of MPI RMA as well as system vendors to discuss the current state of MPI RMA and exchange ideas about its future. While the MPI RMA (and related PGAS interfaces) have been the subject plenty of research work, only minor changes have been made in the past decade. The goal of this workshop is to bring together four important groups relevant for MPI RMA:
 
-### Markdown
+1) Users of MPI RMA developing real world applications: experiences, successes, and challenges;
+2) Implementors of MPI RMA: challenges in efficienly implementing the current semantics of MPI RMA and ideas for simplifications and extensions;
+3) Hardware vendors: input on future directions of network hardware and how to adapt MPI RMA to better map onto current and future hardware;
+4) Related PGAS models (e.g., OpenSHMEM): lessons learned over the past decade(s) in designing alternative PGAS abstractions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Format
 
-```markdown
-Syntax highlighted code block
+The FORMA'22 workshop will comprise a range of invited speakers covering the above groups. Our stated goal is to include researchers and practitioners from both within and outside the usual MPI RMA research circles. We also plan to call for short and medium talks for users to talk about the challenges they faced and successes they achieved in using MPI RMA.
 
-# Header 1
-## Header 2
-### Header 3
+The workshop is meant to be held rather informally to keep the barriers for participation low. Given the ongoing pandemic situation and the uncertainties that come with it, we plan to hold the workshop virtually. 
 
-- Bulleted
-- List
+### Date and Time
 
-1. Numbered
-2. List
+TBD (likely 2-3 days in June)
 
-**Bold** and _Italic_ and `Code` text
+### Proceedings
 
-[Link](url) and ![Image](src)
-```
+There will be no official proceedings with papers from individual authors. However, we plan to release a combined whitepaper summarizing the outcomes of the workshop.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Organizers
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpiwg-rma/forma22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Joseph Schuchart (University of Tennessee, Knoxville)
+- James Dinan (Nvidia)
+- Bill Gropp (University of Illinois Urbana Champaigne)
