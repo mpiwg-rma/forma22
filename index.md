@@ -1,4 +1,6 @@
-## FORMA'22: The First Workshop on the Future of MPI RMA
+# FORMA'22: The First Workshop on the Future of MPI RMA
+
+## Welcome to FORMA'22
 
 MPI Remote Memory Access (RMA) has been part of the MPI standard since MPI 2.0, with significant extensions made in MPI 3.0. With hardware technologies and the application space constantly evolving, it is time to reflect on the current state of affairs and to gather input for future directions of the RMA interface.
 
