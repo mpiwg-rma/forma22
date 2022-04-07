@@ -19,7 +19,7 @@ The workshop is meant to be held rather informally to keep the barriers for part
 
 ### Date and Time
 
-TBD (likely 2-3 days in June)
+TBD (likely 2-3 days in the week of June 13-17)
 
 ### Proceedings
 
