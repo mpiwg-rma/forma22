@@ -29,4 +29,4 @@ There will be no official proceedings with papers from individual authors. Howev
 
 - Joseph Schuchart (University of Tennessee, Knoxville)
 - James Dinan (Nvidia)
-- Bill Gropp (University of Illinois Urbana Champaigne)
+- Bill Gropp (University of Illinois Urbana Champaign)
