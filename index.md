@@ -23,7 +23,7 @@ June 15 & 16, 2022, 8am to 1pm Central
 
 ### Registration
 
-To register for the workshop (and receive the access link) please go to https://tennessee.zoom.us/meeting/register/tJ0qduChrDgsGNdEG3MQeLB-DH3lZ6r-DZww. Participation is free and only used to protect us from the bots. We will not give away your personal data to anyone.
+To register for the workshop (and receive the access link) please go to https://tennessee.zoom.us/meeting/register/tJ0qduChrDgsGNdEG3MQeLB-DH3lZ6r-DZww. Participation is free and registration meant to protect us from the bots. We will not give away your personal data to anyone.
 
 ### Proceedings
 
