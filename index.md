@@ -45,7 +45,7 @@ Tentative program, minor changes and additions possible. All times are CDT.
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
 | ----------- | ----------- | ----------- |
 | 8:00 - 8:40 | Richard Graham (Nvidia) | TBD     |
-| 8:40 - 9:20 | Naveen Ravi (HPE) | TBD |
+| 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* |
 | 9:20 - 10:00 | Maria Garzaran (Intel) | TBD |
 | 10:00 - 10:10 | | Break |
 | 10:10 - 10:55 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
