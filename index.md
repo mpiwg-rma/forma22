@@ -34,7 +34,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 |:----------- |:-----|:---------------|
 | 8:00 - 8:10 | Joseph Schuchart | Welcome |
 | 8:10 - 8:50 | Bill Gropp | *MPI RMA: Is It Time To Start Over?* |
-| 8:50 - 9:35 | Jeff Hammond (Intel) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* |
+| 8:50 - 9:35 | Jeff Hammond (Nvidia) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* |
 | 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* |
 | 10:15 - 10:30 | | Break |
 | 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
