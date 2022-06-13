@@ -25,6 +25,35 @@ June 15 & 16, 2022, 8am to 1pm Central
 
 To register for the workshop (and receive the access link) please use the [registration site](https://tennessee.zoom.us/meeting/register/tJ0qduChrDgsGNdEG3MQeLB-DH3lZ6r-DZww). Participation is free and registration is meant to protect us from the bots.
 
+### Program
+
+Tentative program, minor changes and additions possible. All times are CDT.
+
+#### June 15
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
+| ----------- | ----------- | ----------- |
+| 8:00 - 8:10 | Joseph Schuchart | Welcome     |
+| 8:10 - 8:50 | Bill Gropp | Keynote |
+| 8:50 - 9:35 | Jeff Hammond (Intel) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* |
+| 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* |
+| 10:15 - 10:25 | | Break |
+| 10:25 - 11:05 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
+| 11:05 - 11:45 | Marc Snir (UIUC) | TBD |
+| 11:45 - 12:25 | Nathan Hjelm (Google) | TBD |
+
+#### June 16
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
+| ----------- | ----------- | ----------- |
+| 8:00 - 8:40 | Richard Graham (Nvidia) | TBD     |
+| 8:40 - 9:20 | Naveen Ravi (HPE) | TBD |
+| 9:20 - 10:00 | Maria Garzaran (Intel) | TBD |
+| 10:00 - 10:10 | | Break |
+| 10:10 - 10:55 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
+| 10:55 - 11:45 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
+| 11:45 - 11:35 | User Short Talks  | TBD |
+| 11:35 - 12:05 | TBD | *Panel Discussion* |
+
+
 ### Proceedings
 
 There will be no official proceedings with papers from individual authors. However, we plan to release a combined whitepaper summarizing the outcomes of the workshop.
