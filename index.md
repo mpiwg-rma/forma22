@@ -31,7 +31,6 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 
 #### June 15
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
-| ----------- | ----------- | ----------- |
 | 8:00 - 8:10 | Joseph Schuchart | Welcome |
 | 8:10 - 8:50 | Bill Gropp | *MPI RMA: Is It Time To Start Over?* |
 | 8:50 - 9:35 | Jeff Hammond (Intel) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* |
@@ -43,7 +42,6 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 
 #### June 16
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
-| ----------- | ----------- | ----------- |
 | 8:00 - 8:40 | Richard Graham (Nvidia) | TBD     |
 | 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* |
 | 9:20 - 10:00 | Maria Garzaran (Intel) | TBD |
