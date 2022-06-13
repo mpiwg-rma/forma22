@@ -19,7 +19,7 @@ The workshop is meant to be held rather informally to keep the barriers for part
 
 ### Date and Time
 
-June 15 & 16, 2022, 8am to 1pm Central
+June 15 & 16, 2022, 8am to 1pm CDT.
 
 ### Registration
 
@@ -27,19 +27,19 @@ To register for the workshop (and receive the access link) please use the [regis
 
 ### Program
 
-Tentative program, minor changes and additions possible. All times are CDT.
+Tentative program, minor changes and additions possible. All times are CDT. For most we plan 30 minutes per talk + 10 minute discussion.
 
 #### June 15
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
 | ----------- | ----------- | ----------- |
-| 8:00 - 8:10 | Joseph Schuchart | Welcome     |
-| 8:10 - 8:50 | Bill Gropp | Keynote |
+| 8:00 - 8:10 | Joseph Schuchart | Welcome |
+| 8:10 - 8:50 | Bill Gropp | *MPI RMA: Is It Time To Start Over?* |
 | 8:50 - 9:35 | Jeff Hammond (Intel) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* |
 | 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* |
-| 10:15 - 10:25 | | Break |
-| 10:25 - 11:05 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
-| 11:05 - 11:45 | Marc Snir (UIUC) | TBD |
-| 11:45 - 12:25 | Nathan Hjelm (Google) | TBD |
+| 10:15 - 10:30 | | Break |
+| 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
+| 11:10 - 11:50 | Marc Snir (UIUC) | TBD |
+| 11:50 - 12:30 | Nathan Hjelm (Google) | TBD |
 
 #### June 16
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
@@ -47,11 +47,11 @@ Tentative program, minor changes and additions possible. All times are CDT.
 | 8:00 - 8:40 | Richard Graham (Nvidia) | TBD     |
 | 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* |
 | 9:20 - 10:00 | Maria Garzaran (Intel) | TBD |
-| 10:00 - 10:10 | | Break |
-| 10:10 - 10:55 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
-| 10:55 - 11:45 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
-| 11:45 - 11:35 | User Short Talks  | TBD |
-| 11:35 - 12:05 | TBD | *Panel Discussion* |
+| 10:00 - 10:15 | | Break |
+| 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
+| 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
+| 11:40 - 12:10 | User Short Talks  | TBD |
+| 12:10 - 13:00 | TBD | *Panel Discussion* |
 
 
 ### Proceedings
