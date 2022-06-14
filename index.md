@@ -38,7 +38,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* |
 | 10:15 - 10:30 | | Break |
 | 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
-| 11:10 - 11:50 | Marc Snir (UIUC) | TBD |
+| 11:10 - 11:50 | Marc Snir (UIUC) | *Task Asynchronous Programming Models and One-Sided Communication.* |
 | 11:50 - 12:30 | Nathan Hjelm (Google) | TBD |
 
 #### June 16
