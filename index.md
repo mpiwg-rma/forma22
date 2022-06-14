@@ -50,8 +50,9 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 10:00 - 10:15 | | Break |
 | 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
 | 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
-| 11:40 - 12:10 | User Short Talks  | TBD |
-| 12:10 - 13:00 | TBD | *Panel Discussion* |
+| 11:40 - 12:00 | User Short Talks: Chris Brady (University of Warwick) | *Experiences adding MPI RMA to the DFT code ONETEP* |
+| 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* |
+| 12:15 - 13:00 | TBD | *Panel Discussion* |
 
 
 ### Proceedings
