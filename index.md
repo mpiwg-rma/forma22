@@ -44,9 +44,9 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 #### June 16
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
 |:----------- |:-----|:---------------|
-| 8:00 - 8:40 | Richard Graham (Nvidia) | TBD     |
+| 8:00 - 8:40 | Richard Graham (Nvidia) | *Perspective on MPI one-sided application support*      |
 | 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* |
-| 9:20 - 10:00 | Maria Garzaran (Intel) | TBD |
+| 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* |
 | 10:00 - 10:15 | | Break |
 | 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* |
 | 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
