@@ -39,7 +39,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 10:15 - 10:30 | | Break |
 | 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* |
 | 11:10 - 11:50 | Marc Snir (UIUC) | *Task Asynchronous Programming Models and One-Sided Communication.* |
-| 11:50 - 12:30 | Nathan Hjelm (Google) | TBD |
+| 11:50 - 12:30 | Nathan Hjelm (Google) | *Should we enable MPI RMA calls from the GPU* |
 
 #### June 16
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
