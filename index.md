@@ -35,7 +35,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 8:00 - 8:10 | Joseph Schuchart | Welcome ([Slides](https://github.com/mpiwg-rma/forma22/files/8922374/FoRMA22_intro.pdf)) |
 | 8:10 - 8:50 | Bill Gropp | *MPI RMA: Is It Time To Start Over?* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922399/mpi-rma-vision.pdf)) |
 | 8:50 - 9:35 | Jeff Hammond (Nvidia) | *Experiences with MPI RMA as a foundational communication abstraction for one-sided programming models* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922380/2022.June.Hammond.MPI.RMA-1.pdf)) |
-| 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* |
+| 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922409/FORMA22_MPI-RMA-Bull.pdf)) |
 | 10:15 - 10:30 | | Break |
 | 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922383/ecmwf_ifs_one_sided.pdf)) |
 | 11:10 - 11:50 | Marc Snir (UIUC) | *Task Asynchronous Programming Models and One-Sided Communication.* |
