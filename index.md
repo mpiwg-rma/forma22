@@ -52,7 +52,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
 | 11:40 - 12:00 | User Short Talks: Chris Brady (University of Warwick) | *Experiences adding MPI RMA to the DFT code ONETEP* |
 | 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* |
-| 12:15 - 13:00 | TBD | *Panel Discussion* |
+| 12:15 - 13:00 | Jim Dinan, Torsten Hoefler, Keith Underwood, Jeff Hammond, Bill Gropp | *Panel Discussion* |
 
 
 ### Proceedings
