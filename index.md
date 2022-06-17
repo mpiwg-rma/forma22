@@ -45,7 +45,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Speaker &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Title |
 |:----------- |:-----|:---------------|
 | 8:00 - 8:40 | Richard Graham (Nvidia) | *Perspective on MPI one-sided application support*      |
-| 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* |
+| 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* ([Slides](https://github.com/mpiwg-rma/forma22/files/8923795/forma22_slingshot.pdf)) |
 | 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* |
 | 10:00 - 10:15 | | Break |
 | 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922393/gaspi_brief_overview.pdf)) |
