@@ -38,7 +38,7 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 | 9:35 - 10:15 | Marc Sergent (Atos Bull) | *MPI-RMA at Bull* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922409/FORMA22_MPI-RMA-Bull.pdf)) |
 | 10:15 - 10:30 | | Break |
 | 10:30 - 11:10 | Ioan Hadade (ECMWF) | *Experiences and opportunities for one-sided communication in the ECMWF weather forecasting model* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922383/ecmwf_ifs_one_sided.pdf)) |
-| 11:10 - 11:50 | Marc Snir (UIUC) | *Task Asynchronous Programming Models and One-Sided Communication.* |
+| 11:10 - 11:50 | Marc Snir (UIUC) | *Task Asynchronous Programming Models and One-Sided Communication.* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961020/Snir.MPI-RMA.pdf)) |
 | 11:50 - 12:30 | Jim Dinan (NVIDIA) | *NVSHMEM: CUDA-Integrated Communication for NVIDIA GPUs* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922387/NVSHMEM.-.FORMA._22.pdf)) |
 
 #### June 16
@@ -46,12 +46,15 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 |:----------- |:-----|:---------------|
 | 8:00 - 8:40 | Richard Graham (Nvidia) | *Perspective on MPI one-sided application support*      |
 | 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* ([Slides](https://github.com/mpiwg-rma/forma22/files/8923795/forma22_slingshot.pdf)) |
-| 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* |
+| 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961021/Garzaran-RMA.pdf)
+) |
 | 10:00 - 10:15 | | Break |
 | 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* ([Slides](https://github.com/mpiwg-rma/forma22/files/8928029/notified_communication.pdf), [Slides](https://github.com/mpiwg-rma/forma22/files/8922393/gaspi_brief_overview.pdf)) |
-| 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* |
+| 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961054/2022-06-16-FORMA-OSHMPI.pptx.pdf)
+) |
 | 11:40 - 12:00 | User Short Talks: Chris Brady (University of Warwick) | *Experiences adding MPI RMA to the DFT code ONETEP* ([Slides](https://github.com/mpiwg-rma/forma22/files/8928018/ONETEP_FoRMA.pdf)) |
-| 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* |
+| 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961055/rma-graph-analytics-sghosh-forma22.pdf)
+) |
 | 12:15 - 13:00 | Jim Dinan, Torsten Hoefler, Keith Underwood, Jeff Hammond, Bill Gropp | *Panel Discussion* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922405/FORMA.22.Panel.pdf)) |
 
 
