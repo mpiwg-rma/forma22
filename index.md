@@ -46,15 +46,12 @@ Tentative program, minor changes and additions possible. All times are CDT. For 
 |:----------- |:-----|:---------------|
 | 8:00 - 8:40 | Richard Graham (Nvidia) | *Perspective on MPI one-sided application support*      |
 | 8:40 - 9:20 | Naveen Ravi (HPE) | *Early Experience in Supporting One-sided Communications on Slingshot 11* ([Slides](https://github.com/mpiwg-rma/forma22/files/8923795/forma22_slingshot.pdf)) |
-| 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961021/Garzaran-RMA.pdf)
-) |
+| 9:20 - 10:00 | Maria Garzaran (Intel) | *Should we enable MPI RMA calls from the GPU?* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961021/Garzaran-RMA.pdf)|
 | 10:00 - 10:15 | | Break |
 | 10:15 - 11:00 | Nils Imhoff & Christian Simmendinger (HPE) | *GASPI & Notified Communication in MPI RMA* ([Slides](https://github.com/mpiwg-rma/forma22/files/8928029/notified_communication.pdf), [Slides](https://github.com/mpiwg-rma/forma22/files/8922393/gaspi_brief_overview.pdf)) |
-| 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961054/2022-06-16-FORMA-OSHMPI.pptx.pdf)
-) |
+| 11:00 - 11:40 | Yanfei Guo (ANL) | *Lessons Learned From OSHMPI* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961054/2022-06-16-FORMA-OSHMPI.pptx.pdf)|
 | 11:40 - 12:00 | User Short Talks: Chris Brady (University of Warwick) | *Experiences adding MPI RMA to the DFT code ONETEP* ([Slides](https://github.com/mpiwg-rma/forma22/files/8928018/ONETEP_FoRMA.pdf)) |
-| 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961055/rma-graph-analytics-sghosh-forma22.pdf)
-) |
+| 12:00 - 12:15 | User Short Talks: Sayan Ghosh (PNNL) | *Using MPI RMA in Graph Analytics* ([Slides](https://github.com/mpiwg-rma/forma22/files/8961055/rma-graph-analytics-sghosh-forma22.pdf)|
 | 12:15 - 13:00 | Jim Dinan, Torsten Hoefler, Keith Underwood, Jeff Hammond, Bill Gropp | *Panel Discussion* ([Slides](https://github.com/mpiwg-rma/forma22/files/8922405/FORMA.22.Panel.pdf)) |
 
 
